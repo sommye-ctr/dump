@@ -2,5 +2,8 @@
   "name" : "Some extension",
   "id" : "com.some.ext",
   "description" : "Some desc",
-  "endpoint" : "some endpoint"
+  "endpoint" : "some endpoint",
+  "devEmail" : "email",
+  "devName" : "name",
+  "provides" :[]
 }
