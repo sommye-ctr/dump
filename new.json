@@ -1,0 +1,9 @@
+{
+  "name" : "New some extension",
+  "id" : "com.some.ext",
+  "description" : "Some desc",
+  "endpoint" : "some endpoint",
+  "devEmail" : "my updae email",
+  "devName" : "name",
+  "provides" :["movie", "anime"]
+}
