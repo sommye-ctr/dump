@@ -1,0 +1,6 @@
+{
+  "name" : "Some extension",
+  "id" : "com.some.ext",
+  "description" : "Some desc",
+  "endpoint" : "some endpoint"
+}
