@@ -5,5 +5,5 @@
   "endpoint" : "some endpoint",
   "devEmail" : "email",
   "devName" : "name",
-  "provides" :["movie"]
+  "provides" :["movie", "anime"]
 }
